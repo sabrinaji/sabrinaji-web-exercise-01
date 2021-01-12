@@ -25,6 +25,7 @@ h2 {font-weight: 700;
 
 h3 {line-height: 1.5em;
     font-weight: 400;
+    letter-spacing: .5px;
 }
 
 
@@ -36,7 +37,7 @@ h4 {
 
 .title {   
     padding-top: 10px;
-    padding-right: 500px;
+    padding-right: 600px;
     padding-bottom: 20px;
     padding-left: 30px;
   }
@@ -47,7 +48,7 @@ h4 {
     padding-top: 20px;
     padding-right: 30px;
     padding-bottom: 50px;
-    padding-left: 500px;
+    padding-left: 600px;
   }
 
 
@@ -58,9 +59,16 @@ h4 {
     padding-top: 20px;
     padding-right: 30px;
     padding-bottom: 50px;
-    padding-left: 500px;
+    padding-left: 600px;
   }
 
+
+.circle {
+    height: 50px;
+    width: 50px;
+    background-color:palegreen;
+    border-radius: 50%;
+}
 
 #writer {
     font-family: apertura, sans-serif italic;
