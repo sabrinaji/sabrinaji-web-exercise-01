@@ -39,14 +39,14 @@ h4 {
     padding-top: 10px;
     padding-right: 600px;
     padding-bottom: 20px;
-    padding-left: 30px;
+    padding-left: 100px;
   }
 
 
 
 .content {   
     padding-top: 20px;
-    padding-right: 30px;
+    padding-right: 100px;
     padding-bottom: 50px;
     padding-left: 600px;
   }
@@ -100,8 +100,8 @@ a:link {
   .triangle-down {
 	width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-top: 40px solid yellowgreen;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 30px solid yellowgreen;
 }
   
