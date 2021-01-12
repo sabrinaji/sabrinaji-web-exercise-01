@@ -54,21 +54,15 @@ h4 {
 
 
 .other {
-    color: salmon;
+    color: yellowgreen;
     font-weight: 300;  
     padding-top: 20px;
-    padding-right: 400px;
+    padding-right: 600px;
     padding-bottom: 50px;
-    padding-left: 600px;
+    padding-left: 30px;
   }
 
 
-.circle {
-    height: 50px;
-    width: 50px;
-    background-color:palegreen;
-    border-radius: 50%;
-}
 
 #writer {
     font-family: apertura, sans-serif italic;
@@ -76,14 +70,14 @@ h4 {
 
 
 a:link {
-    color: palegreen;
+    color: yellowgreen;
     background-color: transparent;
     text-decoration: underline;
   }
   
   
   a:visited {
-    color: palegreen;
+    color: yellowgreen;
     background-color: transparent;
     text-decoration: none;
   }
@@ -97,7 +91,7 @@ a:link {
  
   
   a:active {
-    color: palegreen;
+    color:yellowgreen;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -108,6 +102,6 @@ a:link {
 	height: 0;
 	border-left: 25px solid transparent;
 	border-right: 25px solid transparent;
-	border-top: 40px solid palegreen;
+	border-top: 40px solid yellowgreen;
 }
   
