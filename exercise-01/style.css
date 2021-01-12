@@ -24,6 +24,7 @@ h2 {font-weight: 700;
 
 
 h3 {line-height: 1.5em;
+    font-weight: 400;
 }
 
 
@@ -52,7 +53,7 @@ h4 {
 
 
 .other {
-    color: palegreen;
+    color: salmon;
     font-weight: 300;  
     padding-top: 20px;
     padding-right: 30px;
@@ -69,27 +70,26 @@ h4 {
 a:link {
     color: palegreen;
     background-color: transparent;
-    text-decoration: none;
-    font-style:italic;
+    text-decoration: underline;
   }
   
   
   a:visited {
-    color: 222222;
+    color: palegreen;
     background-color: transparent;
     text-decoration: none;
   }
   
 
   a:hover {
-    color: blue;
+    color:salmon;
     background-color: transparent;
     text-decoration: underline;
   }
  
   
   a:active {
-    color: yellow;
+    color: palegreen;
     background-color: transparent;
     text-decoration: underline;
   }
