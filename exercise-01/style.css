@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "opensans";
-    src: url(assets/OpenSans-Demov2-Light.otf)
+    font-family: "bigcaslon";
+    src: url(assets/BigCaslon.ttf)
 }
 
 
 body {
-    background-color:salmon;
+    background-color:palegreen;
     font-family: apertura, sans-serif;
 }
 
@@ -40,7 +40,7 @@ h4 {
 
 #writer {
     font-family: apertura, sans-serif italic;
-    color:palegreen;
+    color:salmon;
     font-style: italic;
 
 }
