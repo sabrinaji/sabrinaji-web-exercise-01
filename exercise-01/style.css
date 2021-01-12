@@ -5,8 +5,9 @@
 
 
 body {
-    background-color:palegreen;
+    background-color:tomato;
     font-family: apertura, sans-serif;
+    color: wheat;
 }
 
 
@@ -31,22 +32,55 @@ h4 {
     font-size: 40px;
 }
 
+
+.title {   
+    padding-top: 10px;
+    padding-right: 500px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+  }
+
+
 .content {   
     padding-top: 20px;
-    padding-right: 400px;
+    padding-right: 30px;
     padding-bottom: 50px;
-    padding-left: 30px;
+    padding-left: 500px;
   }
 
 
 #writer {
     font-family: apertura, sans-serif italic;
-    color:violet;
-    font-style: italic;
-
 }
 
 
+a:link {
+    color: palegreen;
+    background-color: transparent;
+    text-decoration: none;
+    font-style:italic;
+  }
+  
+  
+  a:visited {
+    color: 222222;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+
+  a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+ 
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
 
 
 
